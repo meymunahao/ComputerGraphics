@@ -1,0 +1,5 @@
+﻿  animate.cpp
+  test.cpp
+  Generating Code...
+C:\Users\monaj\Documents\Coding\ComputerGraphics\SDL_Template\test.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SDL_Template.vcxproj -> C:\Users\monaj\Documents\Coding\ComputerGraphics\SDL_Template\x64\Debug\SDL_Template.exe

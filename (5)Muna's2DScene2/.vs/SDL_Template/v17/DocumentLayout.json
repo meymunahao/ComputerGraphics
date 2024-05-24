@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\monaj\\Documents\\Coding\\ComputerGraphics\\Muna\u0027s2DScene2\\",
+  "WorkspaceRootPath": "C:\\Users\\monaj\\Documents\\Coding\\ComputerGraphics\\(5)Muna\u0027s2DScene2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3910215-A6DC-4588-9451-74EE972E35D2}|SDL_Template.vcxproj|C:\\Users\\monaj\\Documents\\Coding\\ComputerGraphics\\Muna\u0027s2DScene2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F3910215-A6DC-4588-9451-74EE972E35D2}|SDL_Template.vcxproj|C:\\Users\\monaj\\Documents\\Coding\\ComputerGraphics\\(5)Muna\u0027s2DScene2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F3910215-A6DC-4588-9451-74EE972E35D2}|SDL_Template.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cpp",
-              "DocumentMoniker": "C:\\Users\\monaj\\Documents\\Coding\\ComputerGraphics\\Muna\u0027s2DScene2\\test.cpp",
+              "DocumentMoniker": "C:\\Users\\monaj\\Documents\\Coding\\ComputerGraphics\\(5)Muna\u0027s2DScene2\\test.cpp",
               "RelativeDocumentMoniker": "test.cpp",
-              "ToolTip": "C:\\Users\\monaj\\Documents\\Coding\\ComputerGraphics\\Muna\u0027s2DScene2\\test.cpp",
+              "ToolTip": "C:\\Users\\monaj\\Documents\\Coding\\ComputerGraphics\\(5)Muna\u0027s2DScene2\\test.cpp",
               "RelativeToolTip": "test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-30T18:38:39.688Z",
               "EditorCaption": ""

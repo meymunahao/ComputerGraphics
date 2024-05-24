@@ -1,7 +1,9 @@
+#include "test.h"
 #include <SDL.h>
 #include <stdio.h>
 #include <SDL_image.h>
 #include <string>
+#include <cmath>
 
 const int SCREEN_WIDTH = 800;
 const int SCREEN_HEIGHT = 600;
@@ -86,10 +88,9 @@ int main(int argc, char* argv[]) {
         return -1;
     }
 
-    // Load images
-    SDL_Texture* desertTexture = loadTexture("desert.png");
-    SDL_Texture* camelTexture = loadTexture("camel.png");
-    SDL_Texture* cactusTexture = loadTexture("cactus.png");
+    SDL_Texture* desertTexture = loadTexture("./Assets/desert.png");
+    SDL_Texture* camelTexture = loadTexture("./Assets/camel.png");
+    SDL_Texture* cactusTexture = loadTexture("./Assets/cactus.png");
 
     // Main loop flag
     bool quit = false;
@@ -118,7 +119,7 @@ int main(int argc, char* argv[]) {
         SDL_RenderCopy(gRenderer, camelTexture, NULL, &camelDest);
 
         // Render cactus
-        SDL_Rect cactusDest = { SCREEN_WIDTH / 4 - 50, SCREEN_HEIGHT / 2 - 50, 100, 100 };
+        SDL_Rect cactusDest = { SCREEN_WIDTH / 4 - 50, SCREEN_HEIGHT/1.5 - 50, 100, 100 };
         SDL_RenderCopy(gRenderer, cactusTexture, NULL, &cactusDest);
 
         // Update screen

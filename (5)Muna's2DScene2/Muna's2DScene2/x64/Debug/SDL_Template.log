@@ -1,4 +1,4 @@
-﻿  animate.cpp
-  test.cpp
-  Generating Code...
-  SDL_Template.vcxproj -> C:\Users\monaj\Documents\Coding\ComputerGraphics\Muna's2DScene2\x64\Debug\Muna's2DScene2.exe
+﻿  test.cpp
+C:\Users\monaj\Documents\Coding\ComputerGraphics\(5)Muna's2DScene2\test.cpp(122,74): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\monaj\Documents\Coding\ComputerGraphics\(5)Muna's2DScene2\test.cpp(122,74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SDL_Template.vcxproj -> C:\Users\monaj\Documents\Coding\ComputerGraphics\(5)Muna's2DScene2\x64\Debug\Muna's2DScene2.exe
